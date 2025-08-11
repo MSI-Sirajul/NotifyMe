@@ -138,7 +138,10 @@ curl -s -X POST "[https://api.telegram.org/bot8462399272:AAGqOZLNh6bnuIVEdEUXtpF
   </div>
 
 ## Telegram Credentials: 
-BOT_Token: `8462399272:AAGqOZLNh6bnuIVEdEUXtpF0b7MPXh4pMwk`  
-Chat ID: `8462399272`  `5185579644`
+BOT_Token:  
+Notify Me:`8462399272:AAGqOZLNh6bnuIVEdEUXtpF0b7MPXh4pMwk`  
+Chat ID:  
+NotifyMe `8030227425`  
+MSI `5185579644`
 
 
